@@ -34,14 +34,6 @@ Rather than one flat commit history, work is organized into branches by type. Br
 | [`Weekly-Assignments`](../../tree/Weekly-Assignments) | Weekly assignments and mini-projects |
 | [`Quizzes-&-Monthly-Exams`](../../tree/Quizzes-&-Monthly-Exams) | Quiz & monthly exam work |
 
-Each branch is organized by phase/week, e.g.:
-
-```
-Class-Tasks/Phase1-Python/Class03/
-Weekly-Assignments/Week07/
-Quizzes-&-Monthly-Exams/Monthly-Exam-2/
-```
-
 ---
 
 ## 🗺️ Course Map
