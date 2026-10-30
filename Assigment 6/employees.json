@@ -1,0 +1,10 @@
+[
+    {
+        "employee_id": "1",
+        "name": "hamza",
+        "department": "cs",
+        "designation": "lead",
+        "monthly_basic_salary": 250.0,
+        "joining_date": "2025-02-23"
+    }
+]
